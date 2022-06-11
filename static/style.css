@@ -1,0 +1,21 @@
+.container{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    }
+
+h3{
+    text-align: center;
+}
+
+
+.box{
+    background-color: var(--color);
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 2px solid black;
+}
